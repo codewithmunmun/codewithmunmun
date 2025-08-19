@@ -7,15 +7,19 @@
 
 ---
 
-## 🔧 Skills & Tools
-- Frontend: HTML, CSS, JavaScript, React.js  
-- Backend: Node.js, Express.js  
-- Database: MongoDB, MySQL  
-- Tools: Git, GitHub, VS Code  
+## 🛠 Skills & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p> 
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Munmun Kumari](https://www.linkedin.com/in/munmun-kumari-0802aa285/)  
-- Email: munmunkum8210@email.com  
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Munmun%20Kumari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/munmun-kumari-0802aa285/)  
+[![Gmail](https://img.shields.io/badge/Email-munmunkum8210%40email.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:munmunkum8210@email.com)  
+
+---
+
+⭐️ *“Every project I build is a step toward becoming a better developer.”*
 
