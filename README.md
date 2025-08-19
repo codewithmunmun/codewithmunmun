@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Munmun 👋  
 
-<!--
-**codewithmunmun/codewithmunmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year Student (Information Technology)  
+💻 MERN Stack Developer | Full-Stack Projects | Open Source Enthusiast  
+🚀 Currently working on: Real-word Projects 
+✨ Interests: Web Development, Cloud, DevOps and AI-powered applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Node.js, Express.js  
+- Database: MongoDB, MySQL  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [Munmun Kumari](https://www.linkedin.com/in/munmun-kumari-0802aa285/)  
+- Email: munmunkum8210@email.com  
+
