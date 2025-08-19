@@ -2,7 +2,7 @@
 
 🎓 B.Tech 3rd Year Student (Information Technology)  
 💻 MERN Stack Developer | Full-Stack Projects | Open Source Enthusiast  
-🚀 Currently working on: Real-word Projects 
+🚀 Currently working on: Real-word Projects <br>
 ✨ Interests: Web Development, Cloud, DevOps and AI-powered applications  
 
 ---
